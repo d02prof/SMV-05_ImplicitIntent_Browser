@@ -1,0 +1,13 @@
+
+//TODO  https://www.youtube.com/watch?v=EjG6Po6c-XI
+
+//TODO  https://www.youtube.com/watch?v=hvLznzKDjlk
+
+//TODO  https://www.youtube.com/watch?v=TUXui5ItBkM
+
+//TODO seznam vgrajenih implicitnih intentov: v iskalnik vpiši "common intents"
+//TODO https://developer.android.com/guide/components/intents-common
+
+//TODO kako preveriti, èe ima uporabnik namešèen browser: https://developer.android.com/guide/components/intents-common#java
+//TODO kako preveriti, èe ima uporabnik namešèen browser: https://stackoverflow.com/questions/51373586/programmatically-detect-whether-a-browser-is-installed-on-android
+//TODO kako preveriti, kateri browser je nastavljen za privzetega: https://stackoverflow.com/questions/23611548/how-to-find-default-browser-set-on-android-device
